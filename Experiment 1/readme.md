@@ -50,7 +50,7 @@ The ping was successful with **0% packet loss**, confirming that Kali Linux coul
 
 ### Output
 
-![step1.png Output](output/step1.png)
+![Step 1 Output](output/step1.png)
 
 ---
 
@@ -76,7 +76,7 @@ The Kali Linux machine was:
 
 ### Output
 
-![Step2 Output](output/step2.png)
+![Step 2 Output](output/step2.png)
 
 ---
 
@@ -92,7 +92,7 @@ The scan identified multiple open TCP ports on the target system, including port
 
 ### Output
 
-![Step3 Output](output/step3.png)
+![Step 3 Output](output/step3.png)
 
 ---
 
@@ -122,7 +122,7 @@ The operating system was identified as a Linux-based system using the Linux 2.6.
 
 ### Output
 
-![Step4 Output](output/step4.png)
+![Step 4 Output](output/step4.png)
 
 ---
 
@@ -150,7 +150,7 @@ The file was successfully created and contained the Nmap scan results.
 
 ### Output
 
-![Step5 Output](output/step5.png)
+![Step 5 Output](output/step5.png)
 
 ---
 
@@ -178,7 +178,7 @@ https://localhost:8834
 
 ### Output
 
-![Step6 Output](output/step6.png)
+![Step 6 Output](output/step6.png)
 
 ---
 
@@ -204,7 +204,7 @@ The scan configuration was saved and the vulnerability scan was started.
 
 ### Output
 
-![Step7 Output](output/step7.png)
+![Step 7 Output](output/step7.png)
 
 ---
 
@@ -216,7 +216,7 @@ The completed scan identified a total of **65 vulnerabilities** across different
 
 ### Output
 
-![Step8 Output](output/step8.png)
+![Step 8 Output](output/step8.png)
 
 ---
 
@@ -244,7 +244,7 @@ This indicates that the command was executed with root-level privileges on the t
 
 ### Output
 
-![Step9 Output](output/step9.png)
+![Step 9 Output](output/step9.png)
 
 ---
 
