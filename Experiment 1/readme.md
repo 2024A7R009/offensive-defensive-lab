@@ -50,7 +50,7 @@ The ping was successful with **0% packet loss**, confirming that Kali Linux coul
 
 ### Output
 
-![Step1 Output](output/step1.png)
+![step1 Output](output/step1.png)
 
 ---
 
